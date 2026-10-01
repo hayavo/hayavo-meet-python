@@ -423,56 +423,6 @@ Source code and issue tracking are available on GitHub:
 
 ---
 
-# Contributing
-
-Contributions are welcome.
-
-## 1. Fork the repository
-
-Fork the project on GitHub and clone your fork:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/hayavo-meet-python.git
-
-cd hayavo-meet-python
-```
-
-## 2. Create a feature branch
-
-```bash
-git checkout -b feature/your-feature
-```
-
-## 3. Make your changes
-
-Add your implementation and tests.
-
-## 4. Run the test suite
-
-```bash
-pytest
-```
-
-## 5. Commit your changes
-
-```bash
-git add .
-
-git commit -m "Add your feature"
-```
-
-## 6. Push your branch
-
-```bash
-git push origin feature/your-feature
-```
-
-## 7. Open a Pull Request
-
-Create a Pull Request against the main repository.
-
----
-
 # Reporting Issues
 
 If you discover a bug, have a question, or want to request a feature, open an issue in the GitHub repository:
